@@ -1,4 +1,4 @@
-#The K-armed Bandit Problem
+# The K-armed Bandit Problem
 Python implementation of solve K-armder Bandit problem:
 
 #Realistic vs Optimistic initialization.
