@@ -1,0 +1,7 @@
+# Pycharm files
+.idea/
+
+# Python build files
+*.egg-info/
+__pycache__/
+.pytest_cache
